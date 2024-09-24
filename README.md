@@ -72,6 +72,7 @@ The code can be found here: https://colab.research.google.com/drive/1yjfjL0ND3LQ
 Link to paper: https://arxiv.org/abs/2308.07766
 
 please cite our work if you find it useful!
+```bibtext
 @inproceedings{gaur2023whale,
   title={Whale detection enhancement through synthetic satellite images},
   author={Gaur, Akshaj and Liu, Cheng and Lin, Xiaomin and Karapetyan, Nare and Aloimonos, Yiannis},
@@ -80,3 +81,4 @@ please cite our work if you find it useful!
   year={2023},
   organization={IEEE}
 }
+```
